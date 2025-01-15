@@ -1,0 +1,6 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "Logitech USB Optical Mouse": "Logitech_B110_B120_Default"
+    }
+}

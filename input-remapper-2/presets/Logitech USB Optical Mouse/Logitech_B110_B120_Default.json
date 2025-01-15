@@ -1,0 +1,40 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 2,
+                "code": 6,
+                "origin_hash": "f94f5a803cdb99f1e0acf3f9f401fe2e",
+                "analog_threshold": -1
+            },
+            {
+                "type": 2,
+                "code": 12,
+                "origin_hash": "f94f5a803cdb99f1e0acf3f9f401fe2e",
+                "analog_threshold": -1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Alt_L+Left",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 2,
+                "code": 6,
+                "origin_hash": "f94f5a803cdb99f1e0acf3f9f401fe2e",
+                "analog_threshold": 1
+            },
+            {
+                "type": 2,
+                "code": 12,
+                "origin_hash": "f94f5a803cdb99f1e0acf3f9f401fe2e",
+                "analog_threshold": 1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Alt_L+Right",
+        "mapping_type": "key_macro"
+    }
+]
